@@ -13,7 +13,7 @@ def assembled_aoh
 end
 
 def literal_aoh
-  my_literal_array_of_hashes = [{ name:  "Don Gately", occupation: "Live-in Staff" }, { name:  "Joelle van Dyne", occupation: "Radio Personality" }, ]
+  my_literal_array_of_hashes = [{ name:  "Don Gately", occupation: "Live-in Staff" }, { name:  "Joelle van Dyne", occupation: "Radio Personality" },  ]
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
 end
